@@ -1,0 +1,37 @@
+*{
+    top: 10px;
+}
+body{
+    width: 80%;
+}
+input{
+    border-radius: 0px !important;
+}
+
+.btn1{
+    width: 60%;
+    margin:10px 80px 10px 
+
+}
+.btn.btn2{
+     
+    margin: 30px;
+    width:20%;
+}
+
+ul.dropdown-menu{
+    margin: 5px !important;
+    top:62% !important;
+    left: 5% !important;
+    border: 2px solid orangered;
+
+}
+
+.dropdown-menu > li > a {
+    padding: 3px 35px !important;
+    line-height: 2.42857143 !important;
+}
+img{
+    width:25px;
+}
+ 
